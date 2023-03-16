@@ -14,12 +14,8 @@ Code and Text Editor
 - npm install i
 
 ## Usage
-* npm install i
-* mysql -u root -p
-* SOURCE Develop/db/shema.sql
-* exit (from mysql)
-* npm run seed or node Develop/seeds/index.js
-* npm start or node Develop/server.js
+* npm install 
+* npm run start
 
 
 ## License
